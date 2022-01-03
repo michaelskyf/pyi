@@ -1,2 +1,2 @@
 # PYI
-## Multiproccesing Pi calculator written in Python
+## Multiprocessing Pi calculator written in Python
